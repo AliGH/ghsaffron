@@ -1,0 +1,63 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+div.backimage {
+	background-image:url('images/bg.jpg');
+	background-repeat:no-repeat;
+	background-position:center top;
+	background-size:cover;
+	position:fixed;
+	z-index:-1;
+	left:-1px;
+	right:-1px;
+	top:0;
+	bottom:0;
+}
+
+div.container {
+	width:980px;
+	margin-top:0;
+	padding-top:1px;
+}
+
+div.content {
+	width:300px;
+	margin-top:0;
+	padding-top:1px;
+}
+
+section.main-top {
+	height:200px;
+	margin-top:1px;
+}
+
+section.man-bootom {
+	height:460px;
+	margin-top:1px;
+	padding-top:1px;
+}
+
+div.logo {
+	background-image:url('images/logo.png');
+	background-repeat:no-repeat;
+	height:300px;
+	margin-top:1px;
+	padding-top:1px;
+}
+
+div.lang {
+	height:120px;
+	margin-top:10px;
+	padding-top:1px;
+}
+
+div.lang ul {
+	margin-top:30px;
+	margin-left:15px;
+}
+
+div.lang ul li {
+	padding-left:20px;
+	z-index:1px;
+}

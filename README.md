@@ -28,6 +28,7 @@ The website for the **ghasem-saffron** company
 ###The Team
 * [**Mahdi Jannatian**](http://github.com/Mahdi-Jannatian) Project Manager
 * [**Ali Mihandoost**](https://github.com/alimd) Technical Manager
+* [**Ali Aghasizadeh](https://github.com/aligh) Technical  Supporter
 * [**Firooze Baghban**](https://github.com/firoozeh) Designer / Developer
 * [**Mohsen Niyazdel**](https://github.com/niyazdel) Programmer / Developer
 

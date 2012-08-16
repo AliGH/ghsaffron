@@ -1,4 +1,4 @@
-##ghasemsaffron wesite 
+##ghasemsaffron website 
 The website for the **ghasem-saffron** company
 
 
@@ -30,7 +30,7 @@ The website for the **ghasem-saffron** company
 * [**Ali Mihandoost**](https://github.com/alimd) Technical Manager
 * [**Firooze Baghban**](https://github.com/firoozeh) Designer / Developer
 * [**Mohsen Niyazdel**](https://github.com/niyazdel) Programmer / Developer
-* [**Ali Aghasizadeh**](https://github.com/aligh) Adviser / Developer
+
 
 
 ### All rights reserved ###

@@ -38,12 +38,13 @@ section.man-bootom {
 	padding-top:1px;
 }
 
-div.logo {
+h1.logo {
 	background-image:url('images/logo.png');
 	background-repeat:no-repeat;
 	height:300px;
 	margin-top:1px;
-	padding-top:1px;
+	text-indent:5000px;
+	overflow:hidden;
 }
 
 div.lang {

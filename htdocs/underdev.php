@@ -19,7 +19,7 @@
 		<div class="noise"></div>
 		<section class="backimg">
 			<?php
-				$images_path = './images/under/';
+				$images_path = './images/under';
 
 				$images = scandir($images_path);
 				$slidesLen = 0;
@@ -36,6 +36,7 @@
 	</section>
 	<footer>
 		<h1><a href='./?debug=1'>U</a>nder Construction</h1>
+		<h2>Tel: +98 511 223 0313</h2>
 	</footer>
 </body>
 </html>

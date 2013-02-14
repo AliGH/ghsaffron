@@ -22,11 +22,11 @@
 	<?php
 		error_reporting(E_ALL ^ E_NOTICE);
 
-		$admin = 'info@mydomain.com';
+		$admin = 'info@ghsaffron.com';
 		
-		$name		= $_POST['name'];
+		$name	= $_POST['name'];
 		$tell		= $_POST['tell'];
-		$email		= $_POST['mail'];
+		$email	= $_POST['mail'];
 		$msg		= $_POST['msg'];
 		$subject	= $_POST['subject'];
 
